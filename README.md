@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on UncaughtExceptions😄
 - 🤔 I’m looking for help with Learning new Technologies
 - 💬 Ask me about Java , Spring boot , React , NodeJs , C , Flutter
-- ⚡ Fun fact: while(life.status != die){
+- ⚡ Fun fact: while(life.status != die){"/n"
                  Coding -> Eating -> Sleeping -> Coding
                } 
 
