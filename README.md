@@ -12,7 +12,7 @@
                  Coding -> Eating -> Sleeping -> Coding
                }***
                
-   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/80/000000/external-coding-coding-and-development-soft-fill-soft-fill-juicy-fish-2.png"/> <img src="https://img.icons8.com/plasticine/80/000000/arrow.png"/> <img src="https://img.icons8.com/external-konkapp-outline-color-konkapp/80/000000/external-eating-stay-at-home-konkapp-outline-color-konkapp.png"/> <img src="https://img.icons8.com/plasticine/80/000000/arrow.png"/> <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/80/000000/external-sleeping-emoji-wanicon-lineal-color-wanicon.png"/> <img src="https://img.icons8.com/plasticine/80/000000/arrow.png"/> <img src="https://img.icons8.com/external-soft-fill-juicy-fish/80/000000/external-coding-coding-and-development-soft-fill-soft-fill-juicy-fish-2.png"/>
+   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/80/000000/external-coding-coding-and-development-soft-fill-soft-fill-juicy-fish-2.png"/> <img src="https://img.icons8.com/plasticine/80/000000/arrow.png"/> <img src="https://img.icons8.com/external-konkapp-outline-color-konkapp/80/000000/external-eating-stay-at-home-konkapp-outline-color-konkapp.png"/> <img src="https://img.icons8.com/plasticine/80/000000/arrow.png"/> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/80/000000/external-sleeping-time-management-itim2101-lineal-color-itim2101.png"/> <img src="https://img.icons8.com/plasticine/80/000000/arrow.png"/> <img src="https://img.icons8.com/external-soft-fill-juicy-fish/80/000000/external-coding-coding-and-development-soft-fill-soft-fill-juicy-fish-2.png"/>
 
  
  
